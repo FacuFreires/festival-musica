@@ -23,6 +23,7 @@
   "homepage": "https://github.com/FacuFreires/festival-musica#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "sass": "^1.54.0"
   }
 }
