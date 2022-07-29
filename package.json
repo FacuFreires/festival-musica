@@ -1,0 +1,27 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacuFreires/festival-musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Facundo Freires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacuFreires/festival-musica/issues"
+  },
+  "homepage": "https://github.com/FacuFreires/festival-musica#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.54.0"
+  }
+}
