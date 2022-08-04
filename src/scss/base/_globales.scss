@@ -13,6 +13,10 @@ html {
 body {
     font-family: variable.$fuente_principal;
     font-size: 1.6rem;
+
+    &.fijar-body {
+        overflow: hidden;
+    }
 }
 
 p {
