@@ -15,6 +15,7 @@
     }
 
     @include m.resetearLista;
+    
     @include m.grid(2, 2rem);
     @include m.phone {
         @include m.grid(3, 2rem);
